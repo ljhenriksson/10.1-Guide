@@ -1,6 +1,6 @@
 # Introduction
 
-With 10.1 coming out I figured I would put together a post detailing some of the changes and bits of information regarding new stuff. I'll be talking a little bit about the new crafting stuff, the new upgrade stuff, the m+ grind, and some info regarding splits and raid loot.
+With 10.1 coming out I figured I would put together a post detailing some of the changes and bits of information regarding new stuff. I'll be talking a little bit about the new crafting stuff, the new upgrade stuff, the m+ grind, and some info regarding splits and raid loot. If you get confused at any point, keep reading until the end and if it still doesn't make sense to you then - reread it. It's a lot of information, and a lot of the systems are tied to eachother. I've tried to make it as clear as possible but the details definitely make more sense once you have an overall grasp of it.
 
 # Mythic+
 
@@ -8,15 +8,18 @@ As always, we won't have any mandatory grind where you have to do x amount of ke
 
 The mythic+ gear grind has gained in value from the previous tier. The infusions used to upgrade crafted gear have been replaced by **crests** of various levels. The highest ilvl ones are still farmed in keys +16 or above, and Blizzard have said that there will be a way to downgrade these crests to the lower level ones if needed. This means that there's no use farming lower keys for lowest level crests. Why does this matter, you ask?
 
-These new crests are not only used for upgrading crafted gear, they're also now used to upgrade **raid gear**. Normal gear (ilvl 415 at its lowest) can now be upgraded to the highest level of **Heroic** gear (ilvl 437) while Heroic gear goes all the way to *lower* Mythic level (ilvl 441). This *does* compete with upgrading your crafted gear, so you will have to make choices here, but in general you can't really fuck up as long as you farm m+. 
+These new crests are not only used for upgrading crafted gear, they're also now used to upgrade **raid gear**. Normal gear (ilvl 415 at its lowest) can now be upgraded to the highest level of **Heroic** gear (ilvl 437) while Heroic gear goes all the way to *lower* Mythic level (ilvl 441). These crests are a limited resource, and are capped just like Valor has been in the past. You can gain 10 crests *of each difficulty* each week. This *does* compete with upgrading your crafted gear, so you will have to make choices here, but in general you can't really fuck up as long as you farm m+.
 
-Here are the new end-of-dungeon drop levels.
+![image](https://user-images.githubusercontent.com/371938/234723833-f9a1f882-f0b6-4f48-8356-2ec2d4fa4505.png)
+
+Lastly, here are the new end-of-dungeon drop levels.
 
 ![image](https://user-images.githubusercontent.com/371938/234718850-9b9d0aa1-0c02-49e7-921f-48db951d81dd.png)
 
 # Crafting
 
-The crafting system remains roughly the same in the new patch but there are a few changes. You no longer combine Primal Focus with Primal Chaos to create Primal Infusions for upgrading crafted gear. Instead, you now farm the crests mentioned in the previous part and then **send a crafting order to an enchanter, who turns the crests into the infusion used for upgrading the crafted gear**. Note that upgrading raid gear with the crests does **not** require this step, and instead is just done like Valor upgrades in the past at the Item Upgrade guy.
+The crafting system remains roughly the same in the new patch but there are a few changes. *Spark of Innovation* has been replaced by *Spark of Shadowflame*, and **crafted gear now goes to ilvl 447**.
+You no longer combine Primal Focus with Primal Chaos to create Primal Infusions for upgrading crafted gear. Instead, you now farm the crests mentioned in the previous part and then **send a crafting order to an enchanter, who turns the crests into the infusion used for upgrading the crafted gear**. Note that upgrading raid gear with the crests does **not** require this step, and instead is just done like Valor upgrades in the past at the Item Upgrade guy. 
 
 There are new embellishments that drop from the raid. The most interesting of these is a general armor embellishment from Leatherworking called the *Shadowflame-Tempered Armor Patch*. This works like the Potion Inhibitor, in that it goes on any piece of gear. Sims for this embellishment look good for DPS, but consult your theorycrafters if this is legit for you. Please note that this is purchasable and stackable, meaning you can run two of these embellishments, just like the potion inhibitor before it.
 
