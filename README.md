@@ -18,7 +18,7 @@ Logically, this means you will be able to get 20 Wyrm's and Aspect's crests comb
 
 Obviously, this means mythic+ is insanely valuable. You can step into mythic with almost half your slots already mythic ilvl. You'll get most of the Wyrm's Crests from clearing Heroic, but will have to finish off your cap with some +15s if you intend to do this.
 
-This *does* compete with upgrading your crafted gear, for example you can manipulate your crests so you end up with 1 447 and 5 441s, which is also quite strong. You will have to make choices here, but in general you can't really fuck up as long as you farm m+ and you understand the downgrading logic.
+This *does* compete with upgrading your crafted gear, for example you can manipulate your crests so you end up with 1 crafted 447 and 5 441s, which is also quite strong. You will have to make choices here, but in general you can't really fuck up as long as you farm m+ and you understand the downgrading logic.
 
 ![image](https://user-images.githubusercontent.com/371938/234723833-f9a1f882-f0b6-4f48-8356-2ec2d4fa4505.png) ![image](https://user-images.githubusercontent.com/371938/234726697-162dca39-8271-4be6-8552-1696530ec873.png)
 
