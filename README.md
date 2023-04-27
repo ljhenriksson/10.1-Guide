@@ -51,7 +51,7 @@ The new raid has similar "gear tiers" to the previous one, where the bosses drop
 
 In terms of tier pieces, we're looking at somewhere between 35 and 40 tier tokens in that first week. We plan on running splits the first two weeks, although this could change depending on where we're at after the first reset.
 
-Note that Sarkareth always drops an **Omni-token**, meaning a tier token that can be exchanged for any of the 5 tier pieces for someone. **The first time we kill Sarkareth, everyone gets one of these due to a quest that rewards it**. Unless you're one of the classes that sit on a busted 2p and meh 4p, you probably want to hold onto this token for as long as you can to complete your 4p. **Note that the amount of these that drop unfortunately does not scale with raid size currently, meaning doing 10-man splits on normal is possibly a play.**
+Note that Scalecommander Dracsen always drops an **Omni-token**, meaning a tier token that can be exchanged for any of the 5 tier pieces for someone. **The first time we kill Dracsen, everyone gets one of these due to a quest that rewards it**. Unless you're one of the classes that sit on a busted 2p and meh 4p, you probably want to hold onto this token for as long as you can to complete your 4p. **Note that the amount of these that drop unfortunately does not scale with raid size currently, meaning doing 10-man splits on normal is possibly a play.**
 
 ![image](https://user-images.githubusercontent.com/371938/234720175-9dcdbb62-6ec2-4401-acf0-8b723d5bcf6e.png)
 
